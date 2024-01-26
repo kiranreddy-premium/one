@@ -10,14 +10,15 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background: linear-gradient(135deg, #f9f7e8, #f6f2e3);
+            color: #333;
         }
 
         header {
-            background-color: #333;
+            background: linear-gradient(90deg, #333, #444);
             color: white;
             text-align: center;
             padding: 1em;
@@ -36,12 +37,13 @@
             margin: 1em;
             padding: 1em;
             width: 300px;
-            background-color: #fff;
+            background: linear-gradient(45deg, #fff, #f9f9f9);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
 
         .food-icon {
             font-size: 48px;
-            color: #333;
+            color: #555;
             margin-bottom: 0.5em;
         }
     </style>
