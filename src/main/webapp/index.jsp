@@ -67,8 +67,40 @@
             <p>Price: $12.99</p>
         </div>
 
-        <!-- Add more food items with icons, descriptions, and prices -->
+        <div class="food-item">
+            <i class="fas fa-coffee food-icon"></i>
+            <h2>Coffee</h2>
+            <p>Hot and refreshing coffee to kickstart your day.</p>
+            <p>Price: $3.99</p>
+        </div>
 
+        <div class="food-item">
+            <i class="fas fa-ice-cream food-icon"></i>
+            <h2>Ice Cream</h2>
+            <p>Delicious vanilla ice cream with chocolate syrup.</p>
+            <p>Price: $6.99</p>
+        </div>
+
+        <div class="food-item">
+            <i class="fas fa-cocktail food-icon"></i>
+            <h2>Soft Drink</h2>
+            <p>Refreshing soft drink to accompany your meal.</p>
+            <p>Price: $1.99</p>
+        </div>
+
+        <div class="food-item">
+            <i class="fas fa-bread-slice food-icon"></i>
+            <h2>Naan</h2>
+            <p>Soft and fluffy Indian bread to complement your curry.</p>
+            <p>Price: $2.99</p>
+        </div>
+
+        <div class="food-item">
+            <i class="fas fa-utensils food-icon"></i>
+            <h2>Biryani</h2>
+            <p>Fragrant and flavorful Indian biryani with basmati rice and spices.</p>
+            <p>Price: $14.99</p>
+        </div>
     </section>
 </body>
 
