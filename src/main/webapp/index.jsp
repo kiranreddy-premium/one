@@ -159,6 +159,34 @@
             <p>Fresh and healthy vegetable salad.</p>
             <p>Price: $7.99</p>
         </div>
+
+        <div class="food-item">
+            <i class="fas fa-sandwich food-icon"></i>
+            <h2>Club Sandwich</h2>
+            <p>Classic club sandwich with turkey, bacon, lettuce, and tomato.</p>
+            <p>Price: $8.99</p>
+        </div>
+
+        <div class="food-item">
+            <i class="fas fa-hotdog food-icon"></i>
+            <h2>Hot Dog</h2>
+            <p>Grilled hot dog with mustard, ketchup, and onions.</p>
+            <p>Price: $5.99</p>
+        </div>
+
+        <div class="food-item">
+            <i class="fas fa-fish food-icon"></i>
+            <h2>Grilled Salmon</h2>
+            <p>Healthy grilled salmon with lemon and herbs.</p>
+            <p>Price: $13.99</p>
+        </div>
+
+        <div class="food-item">
+            <i class="fas fa-taco food-icon"></i>
+            <h2>Taco</h2>
+            <p>Delicious Mexican taco with seasoned meat and toppings.</p>
+            <p>Price: $7.99</p>
+        </div>
     </section>
 </body>
 
