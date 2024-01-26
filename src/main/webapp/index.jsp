@@ -101,6 +101,20 @@
             <p>Fragrant and flavorful Indian biryani with basmati rice and spices.</p>
             <p>Price: $14.99</p>
         </div>
+
+        <div class="food-item">
+            <i class="fas fa-pasta food-icon"></i>
+            <h2>Pasta</h2>
+            <p>Delicious Italian pasta with tomato sauce and Parmesan cheese.</p>
+            <p>Price: $11.99</p>
+        </div>
+
+        <div class="food-item">
+            <i class="fas fa-sushi food-icon"></i>
+            <h2>Sushi</h2>
+            <p>Exquisite Japanese sushi rolls with fresh fish and rice.</p>
+            <p>Price: $15.99</p>
+        </div>
     </section>
 </body>
 
